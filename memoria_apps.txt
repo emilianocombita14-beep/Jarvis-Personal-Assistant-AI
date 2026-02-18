@@ -1,0 +1,28 @@
+spotify|SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify
+whatsapp|531927A.WhatsAppDesktop_cv1g1gvanyjgm!App
+netflix|https://www.netflix.com/browse
+teams|MSTeams_8wekyb3d8bbwe!MSTeams
+youtube|https://youtube.com
+twitch|https://www.twitch.tv/
+chatgpt|OpenAI.CHATGPT-Desktop_2p2nqsd0c76g0!ChatGPT
+armoury crate|B9ECED6F.ArmouryCrate_qmba6cd70vzyy!App
+microsoft store|Microsoft.WindowsStore_8wekyb3d8bbwe!App
+instagram|Facebook.InstagramBeta_8xx8rvfyw5nnt!App
+colegio|fucn.instructure.com-D172DF92_a0qsqncfm4gzc!App
+my asus|B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy!App
+reloj|Microsoft.WindowsAlarms_8wekyb3d8bbwe!App
+tiktok|BytedancePte.Ltd.TikTok_6yccndn6064se!App
+msi afterburner|C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe
+bakkesmod|C:\Program Files\BakkesMod\BakkesMod.exe
+vsc|C:\Users\emili\AppData\Local\Programs\Microsoft VS Code\Code.exe
+steam|C:\Program Files (x86)\Steam\steam.exe
+epic|C:\Program Files\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+edge|C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+chrome|C:\Program Files\Google\Chrome\Application\chrome.exe
+nvidia|C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA App.exe
+calculadora|Microsoft.WindowsCalculator_8wekyb3d8bbwe!App
+epic games|C:\Users\emili\AppData\Local\Microsoft\WindowsApps\python3.12.exe
+copilot|Microsoft.Copilot_8wekyb3d8bbwe!App
+archivos|C:\Windows\explorer.exe
+office|https://m365.cloud.microsoft/chat/?auth=2&home=1
+calendario|https://calendar.google.com/calendar/u/0/r?pli=1
